@@ -1,3 +1,3 @@
 # timeseriesproject
-Analysis of non-durable and durable consumption following COVID-19
+Analysis of non-durable and durable consumption during and after COVID-19
 
